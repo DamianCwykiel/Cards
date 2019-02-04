@@ -3,4 +3,4 @@
 * Saved as a base of ideas and an example for own projects and a source of knowlage of JS code practices.
 * Background from unsplash.com.
 
-* available under - https://damiancwykiel.github.io/Karty/.
+* available under - https://damiancwykiel.github.io/Cards/.
